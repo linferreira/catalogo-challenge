@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../Header';
 import PercentageComponent from '../Percentage';
 import TagComponent from '../Tag';
-import { Wrapper, Image, Content, Date, Resume, Tag } from './styles';
+import { Wrapper, Image, Content, Date, Resume } from './styles';
 
 const CardComponent: React.FC = () => {
     return (
