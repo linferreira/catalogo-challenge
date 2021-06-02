@@ -13,7 +13,9 @@ export const Input = styled.input`
     background-color: #EBEBEB;
 
     color: #116193;
-
+    font-family: 'Abel';
+    font-size: 1em;
+    
     &::placeholder { 
         color: #90b6cc; 
         opacity: 1;
